@@ -1,4 +1,4 @@
-package com.palletech
+package com.palletech;
 
 public class B
 {
